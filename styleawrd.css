@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-image: url("sitebg.png");
+
+.link {
+    font-family: Futura, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+    display: flex;
+    justify-content:end;
+    align-items:center;
+    margin-right: 20px;
+    margin-left: 30px;
+    background-color: black;
+    margin-trim: 10px;
+    padding:5px
+}
+header {
+    background-color: rgb(44, 8, 78);
+    box-shadow: 0px 2px 15px 5px #50263f;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-family: Times New Roman, Arial, Helvetica, sans-serif;
+    font-size: 90px;
+    color:white;
+    display: flex;
+    justify-content: center;
+
+}
+div {
+    p{
+        font-family: Futura, Times New Roman, Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        color:white;
+        display: flex;
+        justify-content: center;
+        text-align:center;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    }
+p {
+    color: white;
+    font-family: Times New Roman, Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}   
+}
